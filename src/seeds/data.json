@@ -1,0 +1,3370 @@
+[
+    {
+        "id": "48f4e65e-2dc6-475d-a4f4-8084f5fb373c",
+        "model": "MACBOOK_AIR_M2_13",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "MIDNIGHT",
+            "type": null,
+            "size": {
+                "value": 13,
+                "unit": "\""
+            },
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "8900bec0-72c1-45d3-9a06-17183ecd5c3c",
+                "stocks": 19,
+                "price": 17699,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "8900bec0-72c1-45d3-9a06-17183ecd5c3c",
+                "stocks": 19,
+                "price": 12899,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "8900bec0-72c1-45d3-9a06-17183ecd5c3c",
+                "stocks": 19,
+                "price": 10999,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "8900bec0-72c1-45d3-9a06-17183ecd5c3c",
+                "stocks": 19,
+                "price": 9399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "8900bec0-72c1-45d3-9a06-17183ecd5c3c",
+                "stocks": 19,
+                "price": 8399,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-08-23T08:55:26.697319",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "e5ad9abf-613e-4caf-8aab-754790d4e147",
+        "model": "MACBOOK_AIR_M2_13",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "SPACE_GREY",
+            "type": null,
+            "size": {
+                "value": 13,
+                "unit": "\""
+            },
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "38b39ffa-aaa7-4acc-8c48-5939fb52a732",
+                "stocks": 25,
+                "price": 13999,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "38b39ffa-aaa7-4acc-8c48-5939fb52a732",
+                "stocks": 25,
+                "price": 10199,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "38b39ffa-aaa7-4acc-8c48-5939fb52a732",
+                "stocks": 25,
+                "price": 8699,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "38b39ffa-aaa7-4acc-8c48-5939fb52a732",
+                "stocks": 25,
+                "price": 7399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "38b39ffa-aaa7-4acc-8c48-5939fb52a732",
+                "stocks": 25,
+                "price": 6599,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-08-23T08:54:51.641827",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "2f25cb5a-6dc6-4ca9-908e-137934fd88a9",
+        "model": "MACBOOK_AIR_M2_15",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SPACE_GREY",
+            "type": null,
+            "size": {
+                "value": 15,
+                "unit": "\""
+            },
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "65a5ec24-c6d8-4b2f-a9cf-5395a026a1b5",
+                "stocks": 9,
+                "price": 19599,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "65a5ec24-c6d8-4b2f-a9cf-5395a026a1b5",
+                "stocks": 9,
+                "price": 14299,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "65a5ec24-c6d8-4b2f-a9cf-5395a026a1b5",
+                "stocks": 9,
+                "price": 12099,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "65a5ec24-c6d8-4b2f-a9cf-5395a026a1b5",
+                "stocks": 9,
+                "price": 10399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "65a5ec24-c6d8-4b2f-a9cf-5395a026a1b5",
+                "stocks": 9,
+                "price": 9299,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-08-23T08:55:02.999244",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "42846434-7d92-4e9a-8e55-e5abb00007b4",
+        "model": "MACBOOK_PRO_14\"_M3_CHIP_PRO",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M3_PRO",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SIDEREAL_BLACK",
+            "type": "GPU_14_CORES",
+            "size": null,
+            "ram": {
+                "value": 18,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "8e78d42a-c651-4558-984b-064f599d5315",
+                "stocks": 14,
+                "price": 27399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "8e78d42a-c651-4558-984b-064f599d5315",
+                "stocks": 14,
+                "price": 19899,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "8e78d42a-c651-4558-984b-064f599d5315",
+                "stocks": 14,
+                "price": 16899,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "8e78d42a-c651-4558-984b-064f599d5315",
+                "stocks": 14,
+                "price": 14399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "8e78d42a-c651-4558-984b-064f599d5315",
+                "stocks": 14,
+                "price": 12999,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-11-15T12:32:21.117387",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "60ec466d-b163-4320-bbaf-a5b5db83ca24",
+        "model": "IMAC_24_(2021)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M1",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "PINK",
+            "size": null,
+            "type": "8_CORE_GPU",
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "c418e183-9338-424b-b894-00dd2516a933",
+                "stocks": 2,
+                "price": 21599,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "c418e183-9338-424b-b894-00dd2516a933",
+                "stocks": 2,
+                "price": 15699,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "91a284e5-9b98-4300-809b-307bc1c01831",
+                    "stocks": 2,
+                    "price": 17599,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            },
+            "12": {
+                "id": "c418e183-9338-424b-b894-00dd2516a933",
+                "stocks": 2,
+                "price": 13399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "c418e183-9338-424b-b894-00dd2516a933",
+                "stocks": 2,
+                "price": 11399,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "91a284e5-9b98-4300-809b-307bc1c01831",
+                    "stocks": 2,
+                    "price": 12799,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            },
+            "24": {
+                "id": "c418e183-9338-424b-b894-00dd2516a933",
+                "stocks": 2,
+                "price": 10199,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "91a284e5-9b98-4300-809b-307bc1c01831",
+                    "stocks": 2,
+                    "price": 11399,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            }
+        },
+        "updated_at": "2023-08-22T10:23:05.199180",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "fd11ae1d-af73-4d5e-bfc3-cd6409381a24",
+        "model": "MACBOOK_PRO_14\"_M3_CHIP_PRO",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M3_PRO",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": "GPU_14_CORES",
+            "size": null,
+            "ram": {
+                "value": 18,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "e4e37e8f-72b0-4fcf-9bba-507202063101",
+                "stocks": 7,
+                "price": 27499,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "e4e37e8f-72b0-4fcf-9bba-507202063101",
+                "stocks": 7,
+                "price": 19999,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "e4e37e8f-72b0-4fcf-9bba-507202063101",
+                "stocks": 7,
+                "price": 16999,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "e4e37e8f-72b0-4fcf-9bba-507202063101",
+                "stocks": 7,
+                "price": 14499,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "e4e37e8f-72b0-4fcf-9bba-507202063101",
+                "stocks": 7,
+                "price": 12999,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-11-15T12:32:23.302475",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "7d7b7bb1-fca9-40cb-a277-462652b63696",
+        "model": "MACBOOK_AIR_M2_13",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "MIDNIGHT",
+            "type": null,
+            "size": {
+                "value": 13,
+                "unit": "\""
+            },
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "b16306c4-79bd-4acc-8486-f7aac49c8822",
+                "stocks": 30,
+                "price": 13999,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "b16306c4-79bd-4acc-8486-f7aac49c8822",
+                "stocks": 30,
+                "price": 10199,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "b16306c4-79bd-4acc-8486-f7aac49c8822",
+                "stocks": 30,
+                "price": 8699,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "b16306c4-79bd-4acc-8486-f7aac49c8822",
+                "stocks": 30,
+                "price": 7399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "b16306c4-79bd-4acc-8486-f7aac49c8822",
+                "stocks": 30,
+                "price": 6599,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-08-23T08:55:19.600746",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "f9175a86-8ad6-480a-9c18-d1955f0fdbaa",
+        "model": "IMAC_24_(2021)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M1",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "GREEN",
+            "type": "8_CORE_GPU",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "6c5ee41a-8512-4eb8-8745-2fcd5fa5b85e",
+                "stocks": 2,
+                "price": 19199,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "6c5ee41a-8512-4eb8-8745-2fcd5fa5b85e",
+                "stocks": 2,
+                "price": 13899,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "af909639-cd12-4691-b07f-513138d80b59",
+                    "stocks": 2,
+                    "price": 15599,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            },
+            "12": {
+                "id": "6c5ee41a-8512-4eb8-8745-2fcd5fa5b85e",
+                "stocks": 2,
+                "price": 11899,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "af909639-cd12-4691-b07f-513138d80b59",
+                    "stocks": 2,
+                    "price": 13299,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            },
+            "18": {
+                "id": "6c5ee41a-8512-4eb8-8745-2fcd5fa5b85e",
+                "stocks": 2,
+                "price": 10099,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "af909639-cd12-4691-b07f-513138d80b59",
+                    "stocks": 2,
+                    "price": 11299,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            },
+            "24": {
+                "id": "6c5ee41a-8512-4eb8-8745-2fcd5fa5b85e",
+                "stocks": 2,
+                "price": 9099,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "af909639-cd12-4691-b07f-513138d80b59",
+                    "stocks": 2,
+                    "price": 10199,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            }
+        },
+        "updated_at": "2023-08-22T10:23:08.632091",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "28019b13-a60e-4322-ae98-4b122cff6131",
+        "model": "MACBOOK_AIR_M2_15",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "MIDNIGHT",
+            "type": null,
+            "size": {
+                "value": 15,
+                "unit": "\""
+            },
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "f06a9c3b-c164-4e52-8797-0f552c30e6cb",
+                "stocks": 13,
+                "price": 17199,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "f06a9c3b-c164-4e52-8797-0f552c30e6cb",
+                "stocks": 13,
+                "price": 12499,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "f06a9c3b-c164-4e52-8797-0f552c30e6cb",
+                "stocks": 13,
+                "price": 10599,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "8eb0dcc3-e3dd-43de-9fa7-b3e6cc007376",
+                    "stocks": 9,
+                    "price": 11899,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            },
+            "18": {
+                "id": "f06a9c3b-c164-4e52-8797-0f552c30e6cb",
+                "stocks": 13,
+                "price": 9099,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "f06a9c3b-c164-4e52-8797-0f552c30e6cb",
+                "stocks": 13,
+                "price": 8099,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "8eb0dcc3-e3dd-43de-9fa7-b3e6cc007376",
+                    "stocks": 9,
+                    "price": 9099,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            }
+        },
+        "updated_at": "2023-08-23T08:55:23.098852",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "78476460-8bf2-400d-872d-9a513b64c7d9",
+        "model": "IMAC_24\"_M3_CHIP_2023",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M3",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "PINK",
+            "type": "GPU_10_CORES",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "981d26d2-35f4-4b17-b03e-50a8dba381fc",
+                "stocks": 2,
+                "price": 22099,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "2ffabe8f-8a1b-4855-a052-458e7618672e",
+                    "stocks": 1,
+                    "price": 24699,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            },
+            "6": {
+                "id": "981d26d2-35f4-4b17-b03e-50a8dba381fc",
+                "stocks": 2,
+                "price": 16099,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "2ffabe8f-8a1b-4855-a052-458e7618672e",
+                    "stocks": 1,
+                    "price": 17999,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            },
+            "12": {
+                "id": "981d26d2-35f4-4b17-b03e-50a8dba381fc",
+                "stocks": 2,
+                "price": 13699,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "981d26d2-35f4-4b17-b03e-50a8dba381fc",
+                "stocks": 2,
+                "price": 11699,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "981d26d2-35f4-4b17-b03e-50a8dba381fc",
+                "stocks": 2,
+                "price": 10499,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-11-15T12:26:00.883380",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "116e9eba-7977-4015-8a07-edbc0e5f8b7d",
+        "model": "MACBOOK_PRO_16\"_M3_CHIP_PRO",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M3_PRO",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": "GPU_18_CORES",
+            "size": null,
+            "ram": {
+                "value": 18,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "bb9812e4-c857-42d8-a00f-33df10d30063",
+                "stocks": 4,
+                "price": 32999,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "bb9812e4-c857-42d8-a00f-33df10d30063",
+                "stocks": 4,
+                "price": 23999,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "bb9812e4-c857-42d8-a00f-33df10d30063",
+                "stocks": 4,
+                "price": 20399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "bb9812e4-c857-42d8-a00f-33df10d30063",
+                "stocks": 4,
+                "price": 17399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "bb9812e4-c857-42d8-a00f-33df10d30063",
+                "stocks": 4,
+                "price": 15599,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-11-15T12:32:27.650062",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "8248a63c-bec2-498d-9311-6ff42dccb46a",
+        "model": "MACBOOK_PRO_14\"_M3_CHIP",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M3",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": "GPU_10_CORES",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "9f996fef-3314-493f-90da-f3ba2d6bde02",
+                "stocks": 3,
+                "price": 24099,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "9f996fef-3314-493f-90da-f3ba2d6bde02",
+                "stocks": 3,
+                "price": 17599,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "9f996fef-3314-493f-90da-f3ba2d6bde02",
+                "stocks": 3,
+                "price": 14899,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "9f996fef-3314-493f-90da-f3ba2d6bde02",
+                "stocks": 3,
+                "price": 12699,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "9f996fef-3314-493f-90da-f3ba2d6bde02",
+                "stocks": 3,
+                "price": 11399,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-11-15T12:32:12.564033",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "b09b655d-b2aa-4446-a152-d2c8a01e4031",
+        "model": "IMAC_24\"_M3_CHIP_2023",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M3",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "PINK",
+            "type": "GPU_8_CORES",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "cab4641b-3e95-45e1-98d0-a0151b11fb9b",
+                "stocks": 4,
+                "price": 17599,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "cab4641b-3e95-45e1-98d0-a0151b11fb9b",
+                "stocks": 4,
+                "price": 12799,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "cab4641b-3e95-45e1-98d0-a0151b11fb9b",
+                "stocks": 4,
+                "price": 10899,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "cab4641b-3e95-45e1-98d0-a0151b11fb9b",
+                "stocks": 4,
+                "price": 9299,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "cab4641b-3e95-45e1-98d0-a0151b11fb9b",
+                "stocks": 4,
+                "price": 8399,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-11-15T12:25:51.282431",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "f987a8e2-86b2-451f-af64-7f1d94cde4e6",
+        "model": "IMAC_24\"_M3_CHIP_2023",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M3",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "BLUE",
+            "type": "GPU_10_CORES",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "9b20e862-9937-4aa9-9648-8d4bcb0ace0a",
+                "stocks": 2,
+                "price": 22099,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "9b20e862-9937-4aa9-9648-8d4bcb0ace0a",
+                "stocks": 2,
+                "price": 16099,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "9b20e862-9937-4aa9-9648-8d4bcb0ace0a",
+                "stocks": 2,
+                "price": 13699,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "9b20e862-9937-4aa9-9648-8d4bcb0ace0a",
+                "stocks": 2,
+                "price": 11699,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "9b20e862-9937-4aa9-9648-8d4bcb0ace0a",
+                "stocks": 2,
+                "price": 10499,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-11-15T12:26:07.775960",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "5ab5672c-90e7-44b5-80da-8b7ac65a3abf",
+        "model": "MACBOOK_AIR_M2_13",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SPACE_GREY",
+            "type": null,
+            "size": {
+                "value": 13,
+                "unit": "\""
+            },
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "c57f2757-b482-4b1f-a80c-020c60112d50",
+                "stocks": 30,
+                "price": 17499,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "c57f2757-b482-4b1f-a80c-020c60112d50",
+                "stocks": 30,
+                "price": 12799,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "c57f2757-b482-4b1f-a80c-020c60112d50",
+                "stocks": 30,
+                "price": 10899,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "c57f2757-b482-4b1f-a80c-020c60112d50",
+                "stocks": 30,
+                "price": 9299,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "c57f2757-b482-4b1f-a80c-020c60112d50",
+                "stocks": 30,
+                "price": 8299,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "ac554d70-2e8c-4fcc-9cd3-d18ead2f4003",
+                    "stocks": 30,
+                    "price": 9299,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            }
+        },
+        "updated_at": "2023-08-23T08:54:58.457689",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "b942c481-94d7-4503-9a51-7e5d957aa73d",
+        "model": "MACBOOK_AIR_M2_13",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "STELLAR_LIGHT",
+            "type": null,
+            "size": {
+                "value": 13,
+                "unit": "\""
+            },
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "4b2908bc-8441-45e2-b029-9f8fd72dc557",
+                "stocks": 30,
+                "price": 13999,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "4b2908bc-8441-45e2-b029-9f8fd72dc557",
+                "stocks": 30,
+                "price": 10199,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "4b2908bc-8441-45e2-b029-9f8fd72dc557",
+                "stocks": 30,
+                "price": 8699,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "4b2908bc-8441-45e2-b029-9f8fd72dc557",
+                "stocks": 30,
+                "price": 7399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "4b2908bc-8441-45e2-b029-9f8fd72dc557",
+                "stocks": 30,
+                "price": 6599,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "418edba1-4713-4e3a-930d-b8b0327b30c7",
+                    "stocks": 31,
+                    "price": 7399,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            }
+        },
+        "updated_at": "2023-08-23T08:55:07.112487",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "ae29f81a-6f4d-4468-b6e0-6beb873aa863",
+        "model": "MACBOOK_AIR_M2_15",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "STELLAR_LIGHT",
+            "type": null,
+            "size": {
+                "value": 15,
+                "unit": "\""
+            },
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "7ae3c5a2-c943-424e-abfd-0506e5fa3c8e",
+                "stocks": 22,
+                "price": 17199,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "7ae3c5a2-c943-424e-abfd-0506e5fa3c8e",
+                "stocks": 22,
+                "price": 12499,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "7ae3c5a2-c943-424e-abfd-0506e5fa3c8e",
+                "stocks": 22,
+                "price": 10599,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "c3fdf4d2-d903-467a-9830-00e3237b5caa",
+                    "stocks": 19,
+                    "price": 11899,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            },
+            "18": {
+                "id": "7ae3c5a2-c943-424e-abfd-0506e5fa3c8e",
+                "stocks": 22,
+                "price": 9099,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "7ae3c5a2-c943-424e-abfd-0506e5fa3c8e",
+                "stocks": 22,
+                "price": 8099,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "c3fdf4d2-d903-467a-9830-00e3237b5caa",
+                    "stocks": 19,
+                    "price": 9099,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            }
+        },
+        "updated_at": "2023-08-23T08:55:10.190368",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "2bf0b854-43fd-4d92-9470-6b5413bf41d9",
+        "model": "IMAC_24\"_M3_CHIP_2023",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M3",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "BLUE",
+            "type": "GPU_8_CORES",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "13782bb4-f829-4ce6-b440-0426303f2509",
+                "stocks": 9,
+                "price": 17599,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "13782bb4-f829-4ce6-b440-0426303f2509",
+                "stocks": 9,
+                "price": 12799,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "13782bb4-f829-4ce6-b440-0426303f2509",
+                "stocks": 9,
+                "price": 10899,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "13782bb4-f829-4ce6-b440-0426303f2509",
+                "stocks": 9,
+                "price": 9299,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "13782bb4-f829-4ce6-b440-0426303f2509",
+                "stocks": 9,
+                "price": 8399,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-11-15T12:25:58.441495",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "b000dacd-036e-4743-b4cc-0dce0f82b4cf",
+        "model": "MACBOOK_PRO_14\"_M3_CHIP",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M3",
+            "storage": {
+                "value": 1,
+                "unit": "TO"
+            },
+            "color": "SPACE_GREY",
+            "type": "GPU_10_CORES",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "c8acefa9-4ec1-4da1-82b8-dfe0c5d72d70",
+                "stocks": 6,
+                "price": 24499,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "c8acefa9-4ec1-4da1-82b8-dfe0c5d72d70",
+                "stocks": 6,
+                "price": 17899,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "c8acefa9-4ec1-4da1-82b8-dfe0c5d72d70",
+                "stocks": 6,
+                "price": 15199,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "c8acefa9-4ec1-4da1-82b8-dfe0c5d72d70",
+                "stocks": 6,
+                "price": 12999,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "c8acefa9-4ec1-4da1-82b8-dfe0c5d72d70",
+                "stocks": 6,
+                "price": 11599,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-11-15T12:32:19.052580",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "52a746b9-6e72-429f-97d7-46859e9e1917",
+        "model": "IMAC_24\"_M3_CHIP_2023",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M3",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "GREEN",
+            "type": "GPU_8_CORES",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "8ec3036a-0825-4581-8442-2c5d8a0c8c67",
+                "stocks": 1,
+                "price": 17599,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "8ec3036a-0825-4581-8442-2c5d8a0c8c67",
+                "stocks": 1,
+                "price": 12799,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "8ec3036a-0825-4581-8442-2c5d8a0c8c67",
+                "stocks": 1,
+                "price": 10899,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "8ec3036a-0825-4581-8442-2c5d8a0c8c67",
+                "stocks": 1,
+                "price": 9299,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "8ec3036a-0825-4581-8442-2c5d8a0c8c67",
+                "stocks": 1,
+                "price": 8399,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-11-15T12:25:53.655709",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "97140ed8-b557-48c4-8ee1-708ecee70030",
+        "model": "MACBOOK_AIR_M2_15",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": null,
+            "size": {
+                "value": 15,
+                "unit": "\""
+            },
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "4dafb82d-0044-42df-8508-01e572793743",
+                "stocks": 20,
+                "price": 17199,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "4dafb82d-0044-42df-8508-01e572793743",
+                "stocks": 20,
+                "price": 12499,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "4dafb82d-0044-42df-8508-01e572793743",
+                "stocks": 20,
+                "price": 10599,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "4dafb82d-0044-42df-8508-01e572793743",
+                "stocks": 20,
+                "price": 9099,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "4dafb82d-0044-42df-8508-01e572793743",
+                "stocks": 20,
+                "price": 8099,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-08-23T08:54:42.453551",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "69f37fcf-987e-446f-8a0f-9d46724b5e86",
+        "model": "IMAC_24\"_M3_CHIP_2023",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M3",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": "GPU_10_CORES",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "651ad400-9352-45dd-acc7-d8dbe2d11e96",
+                "stocks": 7,
+                "price": 22499,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "651ad400-9352-45dd-acc7-d8dbe2d11e96",
+                "stocks": 7,
+                "price": 16399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "651ad400-9352-45dd-acc7-d8dbe2d11e96",
+                "stocks": 7,
+                "price": 13899,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "651ad400-9352-45dd-acc7-d8dbe2d11e96",
+                "stocks": 7,
+                "price": 11899,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "651ad400-9352-45dd-acc7-d8dbe2d11e96",
+                "stocks": 7,
+                "price": 10599,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-11-15T12:26:05.759728",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "87822a28-c369-47b6-84d4-6f8f5c37a881",
+        "model": "15_FC0071NF",
+        "category": "COMPUTER",
+        "brand": "HP",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "RYZEN_5",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "7e653daf-4f3e-4a77-a0c4-6fa759532c6d",
+                "stocks": 30,
+                "price": 6199,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "e00de315-892f-467b-82b9-926ab7961f3e",
+                    "stocks": 30,
+                    "price": 7199,
+                    "currency": "EURO",
+                    "percentage": 14
+                }
+            },
+            "6": {
+                "id": "7e653daf-4f3e-4a77-a0c4-6fa759532c6d",
+                "stocks": 30,
+                "price": 4499,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "e00de315-892f-467b-82b9-926ab7961f3e",
+                    "stocks": 30,
+                    "price": 5199,
+                    "currency": "EURO",
+                    "percentage": 13
+                }
+            },
+            "12": {
+                "id": "7e653daf-4f3e-4a77-a0c4-6fa759532c6d",
+                "stocks": 30,
+                "price": 3899,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "e00de315-892f-467b-82b9-926ab7961f3e",
+                    "stocks": 30,
+                    "price": 4399,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            },
+            "18": {
+                "id": "7e653daf-4f3e-4a77-a0c4-6fa759532c6d",
+                "stocks": 30,
+                "price": 3299,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "e00de315-892f-467b-82b9-926ab7961f3e",
+                    "stocks": 30,
+                    "price": 3799,
+                    "currency": "EURO",
+                    "percentage": 13
+                }
+            },
+            "24": {
+                "id": "7e653daf-4f3e-4a77-a0c4-6fa759532c6d",
+                "stocks": 30,
+                "price": 2999,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "e00de315-892f-467b-82b9-926ab7961f3e",
+                    "stocks": 30,
+                    "price": 3399,
+                    "currency": "EURO",
+                    "percentage": 12
+                }
+            }
+        },
+        "updated_at": "2023-10-20T14:17:58.060360",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "b6807202-5fd5-4083-bbb4-d05191fd4f79",
+        "model": "MACBOOK_AIR_M2_15",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "MIDNIGHT",
+            "type": null,
+            "size": {
+                "value": 15,
+                "unit": "\""
+            },
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "2a82570f-5c4e-4098-9cf0-4e4b7cd818a1",
+                "stocks": 6,
+                "price": 20299,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "2a82570f-5c4e-4098-9cf0-4e4b7cd818a1",
+                "stocks": 6,
+                "price": 14799,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "2a82570f-5c4e-4098-9cf0-4e4b7cd818a1",
+                "stocks": 6,
+                "price": 12499,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "2a82570f-5c4e-4098-9cf0-4e4b7cd818a1",
+                "stocks": 6,
+                "price": 10699,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "2a82570f-5c4e-4098-9cf0-4e4b7cd818a1",
+                "stocks": 6,
+                "price": 9599,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-08-23T08:55:30.108573",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "38ec90ad-2894-40b6-8fa7-a2aea54222ca",
+        "model": "IMAC_24\"_M3_CHIP_2023",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M3",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "GREEN",
+            "type": "GPU_10_CORES",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "f8edcf33-da26-4861-aef1-9bd46d7acbcc",
+                "stocks": 3,
+                "price": 22699,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "f8edcf33-da26-4861-aef1-9bd46d7acbcc",
+                "stocks": 3,
+                "price": 16499,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "f8edcf33-da26-4861-aef1-9bd46d7acbcc",
+                "stocks": 3,
+                "price": 13999,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "f8edcf33-da26-4861-aef1-9bd46d7acbcc",
+                "stocks": 3,
+                "price": 11999,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "f8edcf33-da26-4861-aef1-9bd46d7acbcc",
+                "stocks": 3,
+                "price": 10699,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-11-15T12:26:03.275251",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "60b6de7a-01ce-4e9c-8dc6-cdceb6f00976",
+        "model": "MACBOOK_PRO_16\"_M3_CHIP_PRO",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M3_PRO",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SIDEREAL_BLACK",
+            "type": "GPU_18_CORES",
+            "size": null,
+            "ram": {
+                "value": 18,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "49bb1c1e-0a38-4a8e-a8b3-a654b55793d7",
+                "stocks": 1,
+                "price": 32899,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "49bb1c1e-0a38-4a8e-a8b3-a654b55793d7",
+                "stocks": 1,
+                "price": 23999,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "49bb1c1e-0a38-4a8e-a8b3-a654b55793d7",
+                "stocks": 1,
+                "price": 20399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "49bb1c1e-0a38-4a8e-a8b3-a654b55793d7",
+                "stocks": 1,
+                "price": 17399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "49bb1c1e-0a38-4a8e-a8b3-a654b55793d7",
+                "stocks": 1,
+                "price": 15599,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-11-15T12:32:25.595997",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "e6e90209-40ed-4f07-9aa3-13d61114e96b",
+        "model": "MACBOOK_AIR_M2_15",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": null,
+            "size": {
+                "value": 15,
+                "unit": "\""
+            },
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "871196cd-51a1-4cf3-86ee-1d46701b0d23",
+                "stocks": 10,
+                "price": 19599,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "871196cd-51a1-4cf3-86ee-1d46701b0d23",
+                "stocks": 10,
+                "price": 14299,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "871196cd-51a1-4cf3-86ee-1d46701b0d23",
+                "stocks": 10,
+                "price": 12099,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "871196cd-51a1-4cf3-86ee-1d46701b0d23",
+                "stocks": 10,
+                "price": 10399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "871196cd-51a1-4cf3-86ee-1d46701b0d23",
+                "stocks": 10,
+                "price": 9299,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-08-23T08:54:48.671021",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "0210971a-47eb-45c7-8778-c6a920cac2b8",
+        "model": "MACBOOK_PRO_14\"_M3_CHIP",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M3_PRO",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SIDEREAL_BLACK",
+            "type": "QWERTY_GPU_14_CORES",
+            "size": null,
+            "ram": {
+                "value": 18,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "1d380270-e6c9-42b7-81d4-deecd8bef4d5",
+                "stocks": 6,
+                "price": 26599,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "1d380270-e6c9-42b7-81d4-deecd8bef4d5",
+                "stocks": 6,
+                "price": 19399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "1d380270-e6c9-42b7-81d4-deecd8bef4d5",
+                "stocks": 6,
+                "price": 16499,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "1d380270-e6c9-42b7-81d4-deecd8bef4d5",
+                "stocks": 6,
+                "price": 14099,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "1d380270-e6c9-42b7-81d4-deecd8bef4d5",
+                "stocks": 6,
+                "price": 12599,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-12-15T13:06:48.022061",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "1184d8c4-186c-42e5-b746-54867413ee9b",
+        "model": "MACBOOK_AIR_M2_15",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "STELLAR_LIGHT",
+            "type": null,
+            "size": {
+                "value": 15,
+                "unit": "\""
+            },
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "c6a4ad49-d7c8-4485-a66c-84e37bcf78b6",
+                "stocks": 2,
+                "price": 19599,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "35f21251-9783-43a9-a88d-5e3799416cc9",
+                    "stocks": 1,
+                    "price": 21899,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            },
+            "6": {
+                "id": "c6a4ad49-d7c8-4485-a66c-84e37bcf78b6",
+                "stocks": 2,
+                "price": 14299,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "c6a4ad49-d7c8-4485-a66c-84e37bcf78b6",
+                "stocks": 2,
+                "price": 12099,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "c6a4ad49-d7c8-4485-a66c-84e37bcf78b6",
+                "stocks": 2,
+                "price": 10399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "c6a4ad49-d7c8-4485-a66c-84e37bcf78b6",
+                "stocks": 2,
+                "price": 9299,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "35f21251-9783-43a9-a88d-5e3799416cc9",
+                    "stocks": 1,
+                    "price": 10399,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            }
+        },
+        "updated_at": "2023-08-23T08:55:16.384763",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "57fb81f5-d0fd-4305-9509-228ad481e7eb",
+        "model": "SURFACE_LAPTOP_GO_2",
+        "category": "COMPUTER",
+        "brand": "MICROSOFT",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "INTEL_CORE_I5",
+            "storage": {
+                "value": 128,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "93727d10-7e14-4fce-aeeb-d743099e4f65",
+                "stocks": 5,
+                "price": 8599,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "fca9ee08-318e-4ed7-a4e9-12a84a88d868",
+                    "stocks": 5,
+                    "price": 9699,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            },
+            "6": {
+                "id": "93727d10-7e14-4fce-aeeb-d743099e4f65",
+                "stocks": 5,
+                "price": 6299,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "93727d10-7e14-4fce-aeeb-d743099e4f65",
+                "stocks": 5,
+                "price": 5299,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "fca9ee08-318e-4ed7-a4e9-12a84a88d868",
+                    "stocks": 5,
+                    "price": 5999,
+                    "currency": "EURO",
+                    "percentage": 12
+                }
+            },
+            "18": {
+                "id": "93727d10-7e14-4fce-aeeb-d743099e4f65",
+                "stocks": 5,
+                "price": 4499,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "fca9ee08-318e-4ed7-a4e9-12a84a88d868",
+                    "stocks": 5,
+                    "price": 5099,
+                    "currency": "EURO",
+                    "percentage": 12
+                }
+            },
+            "24": {
+                "id": "93727d10-7e14-4fce-aeeb-d743099e4f65",
+                "stocks": 5,
+                "price": 4099,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "fca9ee08-318e-4ed7-a4e9-12a84a88d868",
+                    "stocks": 5,
+                    "price": 4599,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            }
+        },
+        "updated_at": "2023-10-20T14:18:10.881752",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "1cdca492-dc82-4bce-a73c-8bbfd0173a25",
+        "model": "MACBOOK_AIR_M2_13",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": null,
+            "size": {
+                "value": 13,
+                "unit": "\""
+            },
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "7716fcf7-1653-4e98-8b02-ec94c191f7ba",
+                "stocks": 28,
+                "price": 14599,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "7716fcf7-1653-4e98-8b02-ec94c191f7ba",
+                "stocks": 28,
+                "price": 10599,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "7716fcf7-1653-4e98-8b02-ec94c191f7ba",
+                "stocks": 28,
+                "price": 8999,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "7716fcf7-1653-4e98-8b02-ec94c191f7ba",
+                "stocks": 28,
+                "price": 7699,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "7716fcf7-1653-4e98-8b02-ec94c191f7ba",
+                "stocks": 28,
+                "price": 6899,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-08-23T08:54:38.537853",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "4ea01b5a-e9a2-4978-8532-181f4aaebf64",
+        "model": "IMAC_24\"_M3_CHIP_2023",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M3",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": "GPU_8_CORES",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "8a5b23d6-9009-431a-ad84-c7fc3c6376f3",
+                "stocks": 3,
+                "price": 19499,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "8a5b23d6-9009-431a-ad84-c7fc3c6376f3",
+                "stocks": 3,
+                "price": 14199,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "8a5b23d6-9009-431a-ad84-c7fc3c6376f3",
+                "stocks": 3,
+                "price": 12099,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "8a5b23d6-9009-431a-ad84-c7fc3c6376f3",
+                "stocks": 3,
+                "price": 10299,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "8a5b23d6-9009-431a-ad84-c7fc3c6376f3",
+                "stocks": 3,
+                "price": 9199,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-11-15T12:25:55.887559",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "dcf8529c-4894-4e3d-a858-36d0f2e4f562",
+        "model": "MACBOOK_AIR_M2_13",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": null,
+            "size": {
+                "value": 13,
+                "unit": "\""
+            },
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "536f9569-e96f-4c6e-b642-75dd2606e9ff",
+                "stocks": 3,
+                "price": 17699,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "536f9569-e96f-4c6e-b642-75dd2606e9ff",
+                "stocks": 3,
+                "price": 12899,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "536f9569-e96f-4c6e-b642-75dd2606e9ff",
+                "stocks": 3,
+                "price": 10999,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "536f9569-e96f-4c6e-b642-75dd2606e9ff",
+                "stocks": 3,
+                "price": 9399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "536f9569-e96f-4c6e-b642-75dd2606e9ff",
+                "stocks": 3,
+                "price": 8399,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-08-23T08:54:45.507879",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "8f77fb6d-7d35-4f8e-be96-34ef3d8dcea1",
+        "model": "MACBOOK_AIR_M2_15",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "SPACE_GREY",
+            "type": null,
+            "size": {
+                "value": 15,
+                "unit": "\""
+            },
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "b0f7feed-ec24-461a-a406-40fee9c64a33",
+                "stocks": 17,
+                "price": 17199,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "b0f7feed-ec24-461a-a406-40fee9c64a33",
+                "stocks": 17,
+                "price": 12499,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "b0f7feed-ec24-461a-a406-40fee9c64a33",
+                "stocks": 17,
+                "price": 10599,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "8e825af8-4aa8-4dd0-93a9-b85a94131ce5",
+                    "stocks": 16,
+                    "price": 11899,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            },
+            "18": {
+                "id": "b0f7feed-ec24-461a-a406-40fee9c64a33",
+                "stocks": 17,
+                "price": 9099,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "b0f7feed-ec24-461a-a406-40fee9c64a33",
+                "stocks": 17,
+                "price": 8099,
+                "currency": "EURO",
+                "maximum_price": {
+                    "id": "8e825af8-4aa8-4dd0-93a9-b85a94131ce5",
+                    "stocks": 16,
+                    "price": 9099,
+                    "currency": "EURO",
+                    "percentage": 11
+                }
+            }
+        },
+        "updated_at": "2023-08-23T08:54:55.002344",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "3780764a-d947-425a-8ea3-f010d887b7dd",
+        "model": "MACBOOK_PRO_14\"_M3_CHIP",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M3",
+            "storage": {
+                "value": 1,
+                "unit": "TO"
+            },
+            "color": "SILVER",
+            "type": "GPU_10_CORES",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "b4540070-33b2-4b53-8dae-d53c01533b4c",
+                "stocks": 2,
+                "price": 23899,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "b4540070-33b2-4b53-8dae-d53c01533b4c",
+                "stocks": 2,
+                "price": 17399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "b4540070-33b2-4b53-8dae-d53c01533b4c",
+                "stocks": 2,
+                "price": 14799,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "b4540070-33b2-4b53-8dae-d53c01533b4c",
+                "stocks": 2,
+                "price": 12599,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "b4540070-33b2-4b53-8dae-d53c01533b4c",
+                "stocks": 2,
+                "price": 11299,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-11-15T12:32:17.027683",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "cfd49a27-8d6f-423f-92af-b22ba29f7da2",
+        "model": "MACBOOK_AIR_M2_13",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "STELLAR_LIGHT",
+            "type": null,
+            "size": {
+                "value": 13,
+                "unit": "\""
+            },
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": {
+            "3": {
+                "id": "5ebacb7f-be2c-4f26-ba91-62976e5309fa",
+                "stocks": 1,
+                "price": 17699,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "6": {
+                "id": "5ebacb7f-be2c-4f26-ba91-62976e5309fa",
+                "stocks": 1,
+                "price": 12899,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "12": {
+                "id": "5ebacb7f-be2c-4f26-ba91-62976e5309fa",
+                "stocks": 1,
+                "price": 10999,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "18": {
+                "id": "5ebacb7f-be2c-4f26-ba91-62976e5309fa",
+                "stocks": 1,
+                "price": 9399,
+                "currency": "EURO",
+                "maximum_price": null
+            },
+            "24": {
+                "id": "5ebacb7f-be2c-4f26-ba91-62976e5309fa",
+                "stocks": 1,
+                "price": 8399,
+                "currency": "EURO",
+                "maximum_price": null
+            }
+        },
+        "updated_at": "2023-08-23T08:55:13.211655",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "1201a3ff-f371-484b-b8f6-4ed4618abf5e",
+        "model": "IMAC_24_(2021)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M1",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-22T10:22:49.124311",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "65401115-3ac7-4d5a-b784-77a9ef64db8b",
+        "model": "MACBOOK_PRO_14\"_(2023)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2_MAX",
+            "storage": {
+                "value": 1,
+                "unit": "TB"
+            },
+            "color": "SPACE_GREY",
+            "size": null,
+            "type": null,
+            "ram": {
+                "value": 32,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-23T08:55:50.812701",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "8ebd0890-1c22-45b6-be7c-93315f801d69",
+        "model": "ZENBOOK_S13_OLED_UM5302",
+        "category": "COMPUTER",
+        "brand": "ASUS",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "RYZEN_7",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": null,
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-10-20T14:18:14.306667",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "9e736282-5f6b-4ec1-9ab6-d15a9f00c5ba",
+        "model": "ASPIRE_VERO_AV15_52_56ZF",
+        "category": "COMPUTER",
+        "brand": "ACER",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "INTEL_CORE_I5",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "BLACK",
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-10-20T14:18:07.923198",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "c647f4ae-11ab-439a-aa0c-a5cec289f076",
+        "model": "IMAC_24_(2021)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M1",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "PINK",
+            "type": "8_CORE_GPU",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-22T10:23:02.578066",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "24ea1a04-fa52-4aaa-8cf9-dc78906dd6ca",
+        "model": "OMEN_17_CK0062NF",
+        "category": "COMPUTER",
+        "brand": "HP",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "INTEL_CORE_I7",
+            "storage": {
+                "value": 1,
+                "unit": "TB"
+            },
+            "color": "BLACK",
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-10-20T14:18:00.006779",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "75313448-1ab3-4c2c-a90e-e32a77cafaad",
+        "model": "KATANA_17_B12VGK_222XFR",
+        "category": "COMPUTER",
+        "brand": "MSI",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "INTEL_CORE_I7",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "BLACK",
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 32,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-11-03T15:34:47.819660",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "eaa4f859-9772-4680-8c8f-412b1b5eef77",
+        "model": "IDEAPAD_3_15_ALC6",
+        "category": "COMPUTER",
+        "brand": "LENOVO",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "RYZEN_7",
+            "storage": {
+                "value": 1,
+                "unit": "TB"
+            },
+            "color": "DARK_GREY",
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-10-20T14:18:02.461113",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "36d4a0e4-2143-44f2-ba76-52c8d1dc1d31",
+        "model": "IMAC_24_(2021)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M1",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "PINK",
+            "type": "7_CORE_GPU",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-22T10:22:59.705240",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "7efbf9a8-279b-4e8d-b08b-cb760641421e",
+        "model": "MACBOOK_PRO_16\"_(2023)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2_PRO",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "size": null,
+            "type": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-23T08:56:19.704054",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "d0d5789f-1ea5-42c2-b176-e8974e8fb677",
+        "model": "IMAC_24_(2021)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M1",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "GREEN",
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-22T10:23:13.764381",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "8a4a91a1-0fa5-4ff7-9ca0-0513f9563d2f",
+        "model": "IMAC_24_(2021)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M1",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "BLUE",
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-22T10:22:57.119565",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "188c5a64-bc8d-48fb-8d8e-ab6f7a5c2e8f",
+        "model": "IMAC_24_(2021)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M1",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": "8_CORE_GPU",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-22T10:22:43.921784",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "62f8df0a-e390-4e16-8bbf-c2ee0adbef2b",
+        "model": "MACBOOK_PRO_16\"_(2023)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2_PRO",
+            "storage": {
+                "value": 1,
+                "unit": "TB"
+            },
+            "color": "SPACE_GREY",
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-23T08:56:15.913935",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "d416583d-5c60-41b6-8472-86fd728c6448",
+        "model": "MACBOOK_PRO_16\"_(2023)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2_MAX",
+            "storage": {
+                "value": 1,
+                "unit": "TB"
+            },
+            "color": "SPACE_GREY",
+            "size": null,
+            "type": null,
+            "ram": {
+                "value": 32,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-23T08:56:12.412847",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "9f00b28e-555b-49da-a1ab-c49447e42439",
+        "model": "PAVILLON_PLUS_14_EH0022NF",
+        "category": "COMPUTER",
+        "brand": "HP",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "INTEL_CORE_I5",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "DARK_BLUE",
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-11-03T15:35:00.902184",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "ef0f0919-3a93-4049-9fde-5c3183684b34",
+        "model": "17_CP0303NF",
+        "category": "COMPUTER",
+        "brand": "HP",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "RYZEN_7",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-11-03T15:34:54.204154",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "25dffb8b-0f9a-49a0-8f2e-42caf4330f2e",
+        "model": "16_S0019NF",
+        "category": "COMPUTER",
+        "brand": "VICTUS",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "RYZEN_7",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "BLACK",
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-11-03T15:34:57.786525",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "88cbe7f2-e9ba-4471-b598-f2ec7dd6ebae",
+        "model": "ASPIRE_3_A315_58",
+        "category": "COMPUTER",
+        "brand": "ACER",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "INTEL_CORE_I5",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-10-20T14:18:09.313074",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "8d807e35-0f79-4ee5-8a32-686fd7842c69",
+        "model": "MACBOOK_PRO_14\"_(2023)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2_PRO",
+            "storage": {
+                "value": 1,
+                "unit": "TB"
+            },
+            "color": "SPACE_GREY",
+            "size": null,
+            "type": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-23T08:55:42.524097",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "d9b7f32f-4258-4dcd-845c-6bf15a67588d",
+        "model": "IMAC_24_(2021)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M1",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": "7_CORE_GPU",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-22T10:22:46.500143",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "8a4fb476-03b9-4a43-a51f-2a24f43fd012",
+        "model": "15S_FQ2076NF",
+        "category": "COMPUTER",
+        "brand": "HP",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "INTEL_CORE_I5_1135G7",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "size": {
+                "value": 15.6,
+                "unit": "\""
+            },
+            "type": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-09-04T11:51:20.990541",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "6033a855-1e68-42b8-a509-4c199dad87a2",
+        "model": "MACBOOK_PRO_14\"_(2023)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2_PRO",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SPACE_GREY",
+            "size": null,
+            "type": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-23T08:55:45.810177",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "1327fbd7-d10c-475d-91b6-3119eeb75fa0",
+        "model": "MACBOOK_PRO_16\"_(2023)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2_PRO",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SPACE_GREY",
+            "size": null,
+            "type": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-23T08:56:09.070120",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "c19eaf57-b95c-4501-8d92-59f30bde4fad",
+        "model": "VIVOBOOK_15_S1500EA_EJ3548W",
+        "category": "COMPUTER",
+        "brand": "ASUS",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "INTEL_CORE_I7",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-11-03T15:35:04.291884",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "b9ae0f26-303f-491f-b669-3149419a71a2",
+        "model": "IMAC_24_(2021)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M1",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "GREEN",
+            "type": "7_CORE_GPU",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-22T10:23:11.496325",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "ac82d438-b540-443d-a5f5-c94706169a6c",
+        "model": "MACBOOK_PRO_14\"_(2023)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2_PRO",
+            "storage": {
+                "value": 1,
+                "unit": "TB"
+            },
+            "color": "SILVER",
+            "size": null,
+            "type": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-23T08:55:55.441128",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "3050d8ec-a693-4e93-b003-f063e363c4a3",
+        "model": "IMAC_24_(2021)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M1",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "BLUE",
+            "type": "7_CORE_GPU",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-22T10:22:54.380434",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "212f750e-6bd6-438e-b6d8-93ee1f233449",
+        "model": "MACBOOK_PRO_14\"_(2023)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2_PRO",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "size": null,
+            "type": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-23T08:55:58.459657",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "fb30e775-a693-4690-8f39-3c1b12a68dac",
+        "model": "MACBOOK_PRO_16\"_(2023)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2_MAX",
+            "storage": {
+                "value": 1,
+                "unit": "TB"
+            },
+            "color": "SILVER",
+            "size": null,
+            "type": null,
+            "ram": {
+                "value": 32,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-23T08:56:01.737595",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "f542f84d-6249-4e88-af36-949305d0c43a",
+        "model": "15S_FQ0091NF",
+        "category": "COMPUTER",
+        "brand": "HP",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "INTEL_CELERON",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "GRAY",
+            "type": null,
+            "size": {
+                "value": 15.6,
+                "unit": "\""
+            },
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-09-04T11:51:19.222862",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "ab3bd33b-72ec-48e8-a65d-fd4f1a274078",
+        "model": "LEGION_T7_GAMER_34IAZ7",
+        "category": "COMPUTER",
+        "brand": "LENOVO",
+        "sub_category": "CENTRAL_PROCESSING_UNIT",
+        "leaf": "CENTRAL_PROCESSING_UNIT",
+        "properties": {
+            "cpu": "INTEL_CORE_I7",
+            "storage": {
+                "value": 1,
+                "unit": "TB"
+            },
+            "color": null,
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 32,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-22T12:16:55.354149",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "a07bceaf-b632-4e53-8f62-dbaaf1bb93ee",
+        "model": "VIVOBOOK_17X_R710QA_BX105W",
+        "category": "COMPUTER",
+        "brand": "ASUS",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "RYZEN_5",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SILVER",
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-11-03T15:35:09.747303",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "bd66a3fb-4f5e-4c22-a638-8839bd02e210",
+        "model": "IMAC_24_(2021)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "ALL_IN_ONE_COMPUTER",
+        "leaf": "ALL_IN_ONE_COMPUTER",
+        "properties": {
+            "cpu": "APPLE_M1",
+            "storage": {
+                "value": 256,
+                "unit": "GB"
+            },
+            "color": "BLUE",
+            "type": "8_CORE_GPU",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-22T10:22:51.736598",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "82d351b8-e468-4683-a095-ae36b788bb15",
+        "model": "MACBOOK_PRO_14\"_M3_CHIP",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M3",
+            "storage": {
+                "value": 512,
+                "unit": "GB"
+            },
+            "color": "SPACE_GREY",
+            "type": "GPU_10_CORES",
+            "size": null,
+            "ram": {
+                "value": 8,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-11-15T12:32:14.815062",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "b70d20c3-14ea-424a-9dcb-d571f9387abc",
+        "model": "MACBOOK_PRO_14\"_(2023)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2_MAX",
+            "storage": {
+                "value": 1,
+                "unit": "TB"
+            },
+            "color": "SPACE_GREY",
+            "size": null,
+            "type": null,
+            "ram": {
+                "value": 32,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-23T08:55:39.051283",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "c52dfa8f-dbde-4ccb-9559-387ca7bbb7ee",
+        "model": "ROG_STRIX_G17",
+        "category": "COMPUTER",
+        "brand": "ASUS",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "AMD_RYZEN_9",
+            "storage": {
+                "value": 1,
+                "unit": "TB"
+            },
+            "color": null,
+            "type": null,
+            "size": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-23T09:00:07.589063",
+        "family": "COMPUTING"
+    },
+    {
+        "id": "8e104e8c-0eb7-40fa-9d07-b57b32c32115",
+        "model": "MACBOOK_PRO_16\"_(2023)",
+        "category": "COMPUTER",
+        "brand": "APPLE",
+        "sub_category": "LAPTOP",
+        "leaf": "LAPTOP",
+        "properties": {
+            "cpu": "APPLE_M2_PRO",
+            "storage": {
+                "value": 1,
+                "unit": "TB"
+            },
+            "color": "SPACE_GREY",
+            "size": null,
+            "type": null,
+            "ram": {
+                "value": 16,
+                "unit": "GB"
+            }
+        },
+        "minimum_prices": null,
+        "updated_at": "2023-08-23T08:56:05.129661",
+        "family": "COMPUTING"
+    }
+]
